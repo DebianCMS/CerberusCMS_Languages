@@ -1534,9 +1534,13 @@ $_Application_Module_Member_Message_Login_AUTHORIZATION_TOKEN_VALID							= "<CE
 $_Application_Module_Member_Message_Login_AUTHORIZATION_TOKEN_INVALID							= "<CENTER>Cerberus: The Authorization Token that you have provided is invalid.</CENTER>";
 $_Application_Module_Member_Message_Login_AUTHORIZATION_UPDATED_SUCCESSFULLY						= "<CENTER>Cerberus: I have updated the Member Account Authorized Internet Protocol Address Successfully.</CENTER>";
 $_Application_Module_Member_Message_Login_AUTHORIZATION_UPDATE_ERROR							= "<CENTER>Cerberus: I was not able to update the Member Account Authorized Internet Protocol Address.</CENTER>";
-$_Application_Module_Member_Message_Login_ACCOUNT_FORCED_LOGOUT								= "<CENTER>Cerberus: You have been Forced to Logout either by an Administrator of This System or by the Registered Member Account Owner. You will need to remove this Account Flag in order to Authenticate. Try Account Recovery.</CENTER>";
+$_Application_Module_Member_Message_Login_ACCOUNT_FORCED_LOGOUT								= "<CENTER>Cerberus: You have been Forced to Logout either by an Administrator of This System or by the Registered Member Account Owner. You will need to remove this Account Flag in order to Authenticate. Try Account Authorization For Internet Protocol Address OR Account Recovery.</CENTER>";
 $_Application_Module_Member_Message_Login_ACCOUNT_FORCED_LOGOUT_USER_AGENT						= "<CENTER>Cerberus: You have been Forced to Logout because the Web Browser User-Agent in use is not Authorized</CENTER>";
 $_Application_Module_Member_Message_Login_ACCOUNT_FORCED_LOGOUT_MAC_ADDRESS						= "<CENTER>Cerberus: You have been Forced to Logout because the MAC Address in use is not Authorized.</CENTER>";
+$_Application_Module_Member_Message_Login_ACCOUNT_AUTHENTICATED_KILL_ACCOUNT_CURRENT_SUCCESSFUL				= "<CENTER>Cerberus: The Registered Member Account Active Session Has Been Killed Successfully.</CENTER>";
+$_Application_Module_Member_Message_Login_ACCOUNT_AUTHENTICATED_KILL_ACCOUNT_CURRENT_ERROR				= "<CENTER>Cerberus: I Was Not Able To Kill The Registered Member Account Active Session. Try Again ?</CENTER>";
+$_Application_Module_Member_Message_Login_ACCOUNT_AUTHENTICATED_KILL_ACCOUNT_GHOST_SUCCESSFUL				= "<CENTER>Cerberus: The Registered Member Account Ghost Session Has Been Killed Sucessfully.</CENTER>";
+$_Application_Module_Member_Message_Login_ACCOUNT_AUTHENTICATED_KILL_ACCOUNT_GHOST_ERROR				= "<CENTER>Cerberus: I Was Not Able To Kill The Registered Member Account Ghost Session. Try Again ?</CENTER>";
 
 /*
  ============================================================================================================
